@@ -20,3 +20,5 @@ This is a simple web project, deployemnet can be on any web server or even local
 Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
+
+All rights reserved.
